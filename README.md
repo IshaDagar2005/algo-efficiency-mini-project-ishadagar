@@ -20,6 +20,6 @@ The notebook demonstrates **execution time growth with input size** and explains
 Clone the repository and set up dependencies:
 
 ```bash
-git clone https://github.com/<yourusername>/algo-efficiency-mini-project-<yourname>.git
-cd algo-efficiency-mini-project-<yourname>
+git clone https://github.com/ishadagar/algo-efficiency-mini-project-ishadagar.git
+cd algo-efficiency-mini-project-ishadagar
 pip install -r requirements.txt
